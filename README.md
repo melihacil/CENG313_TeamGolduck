@@ -2,6 +2,10 @@
 
 Team Golduck Final Project
 
+Youtube Link
+
+https://www.youtube.com/watch?v=CLyF5F9_4AE
+
 All of the datasets can be found in our github repository
 
 https://github.com/melihacil/CENG313_TeamGolduck
